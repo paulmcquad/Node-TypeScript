@@ -1,6 +1,6 @@
 {
     "name": "@paulmcquad/node-typescript",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "devDependencies": {
         "typescript": "^4.6.2"
     },
